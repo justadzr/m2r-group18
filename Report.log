@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.13)  14 JUN 2022 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.13)  14 JUN 2022 20:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -692,20 +692,20 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 {C:/Users/youro/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}] [2] (Report.aux)
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: F40D9F462F40A633D60872D82639BE96;141.
+(rerunfilecheck)             Checksum: DAE8C8F8FA7E7947121C5D3E27775907;440.
  ) 
 Here is how much of TeX's memory you used:
- 27378 strings out of 478550
- 568312 string characters out of 2850662
- 809454 words of memory out of 3000000
- 45134 multiletter control sequences out of 15000+600000
+ 27389 strings out of 478550
+ 568449 string characters out of 2850662
+ 814454 words of memory out of 3000000
+ 45139 multiletter control sequences out of 15000+600000
  484275 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,6n,94p,766b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Report.pdf (2 pages, 86664 bytes).
+ 98i,6n,94p,842b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Report.pdf (2 pages, 106983 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
