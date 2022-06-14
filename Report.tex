@@ -37,8 +37,14 @@
 	\newtheorem{lemma}{Lemma}[subsection]
 	\newtheorem{corollary}{Corollary}[subsection]
 	\theoremstyle{remark}
-	\newtheorem*{remark}{Remark}
+	\theoremstyle{definition}
+	\newtheorem{remark}{Remark}
+	\newtheorem{example}{Example}[subsection]
+	\newtheorem{definition}{Definition}[subsection]
 	\newcommand*{\lemmaautorefname}{Lemma}
+	\newcommand*{\definitionautorefname}{Definition}
+	\newcommand*{\exampleautorefname}{Example}
+	\newcommand{\remarkautorefname}{Remark}
 	\newcommand*{\corollaryautorefname}{Corollary}
 	
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -109,7 +115,7 @@
 	\section{Basic Constructions}
         The main reference of this note is Silverman's \textit{Arithmetic in Elliptic Curves}, and sometimes with examples from \textit{Rational Points on Elliptic Curves} by Silverman \& Tate.
 
-        In order to study the rational solutions of a certain type of equations, it is important to base all geometric constructions on some algebraically closed extension of the field we are interested in. Say $k$ is a perfect field and $\bar{k}$ an algebraic closure of $k$, we denote by $\Gal(\bar k/k)$ the Galois group of $\bar{k}/k$. We can define a natural group action of $\Gal(\bar k/k)$ on the affine space $\mathbb A^n$ over $k$ (we will always reserve the notation with subscripts for the affine schemes) by $(x_1,\dots, x_n)^\sigma =(x_1^\sigma,\dots, x_n^\sigma)$ for any $\sigma$ in the Galois group.
+        In order to study the rational solutions of a certain type of equations, it is important to base all geometric constructions on some algebraically closed extension of the field we are interested in. Say $k$ is a perfect field and $K$ an algebraic closure of $k$, we denote by $\Gal(K/k)$ the Galois group of $K/k$ (the fixed field of this group is $k$ as $K$ is an algebraic, separable and normal extension of $k$). We can define a natural group action of $\Gal(K/k)$ on the affine space $\mathbb A^n$ over $K$ (we will always reserve the notation with subscripts for the affine schemes) by $(x_1,\dots, x_n)^\sigma =(x_1^\sigma,\dots, x_n^\sigma)$ for any $\sigma$ in the Galois group.
 
         To focus on the 
 \end{document}
